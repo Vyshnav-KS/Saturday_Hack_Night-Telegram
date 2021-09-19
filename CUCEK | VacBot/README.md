@@ -1,12 +1,9 @@
-
 # VacBot
 
 A telegram bot for finding the availability of covid-vaccines in Kerala.
 
+## Adding telegram bot to telegram.
 
-
-
-## Adding telegram bot to discord.
 Search vac_2021_telegram_bot on telegram and add the bot to your telegram group.
 
 ## Run Locally
@@ -34,5 +31,3 @@ Start the bot
 ```bash
   python3 main.py
 ```
-
-  
